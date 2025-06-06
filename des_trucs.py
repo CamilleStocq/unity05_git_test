@@ -10,3 +10,5 @@ print("On peut mettre un verbe en b et un autre mot en c (nom/complément d'obje
 
 print(f"{a} {b} {c}")
 
+b = "mange"
+
