@@ -1,9 +1,13 @@
-from random import randint
+print("Hello Nadine et Camille!")
 
-print ("*-()-*")
+print("Cadavre exquis :")
 
-print("Hello World !")
+a = "senpai"
+b = "..."
+c = "..."
 
-print(randint(1,6))
+print("On peut mettre un verbe en b et un autre mot en c (nom/complément d'objet direct ou attribut du sujet, sorry si vous aimez pas la grammaire)")
 
-print("The end")
+print(f"{a} {b} {c}")
+
+b = "mange"
